@@ -1,11 +1,11 @@
-  =>  Template Name    : FarmFresh - Organic Farm Website Template
+ Crop Retailing Without Brokerage system is a web-based platform designed to connect farmers directly with customers and government buyers. It eliminates the role of middlemen, ensuring farmers receive fair prices for their produce while providing buyers with fresh crops at lower costs. The platform includes functionalities for crop listing, order placement, user management, and communication between stakeholders.
 
-  =>  Template Link    : https://htmlcodex.com/organic-farm-website-template
+---
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+## 🚀 Features
 
-  =>  Template Author  : HTML Codex
-
-  =>  Author Website   : https://htmlcodex.com
-
-  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
+- 👨‍🌾 Farmer registration and crop listing
+- 🧑‍💼 Buyer registration and order management
+- 🧾 Real-time crop availability view
+- 🗣️ Direct communication between farmers and buyers
+- 🔐 Secure login and role-based dashboards
